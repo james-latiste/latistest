@@ -1,6 +1,6 @@
 [
   {
-    "name": "latistest",
+    "name": "theme_info",
     "theme_name": "Dawn",
     "theme_version": "1.0.0",
     "theme_author": "Shopify",
@@ -249,6 +249,6 @@
         "label": "t:settings_schema.social-media.settings.social_vimeo_link.label",
         "info": "t:settings_schema.social-media.settings.social_vimeo_link.info"
       }
-    ]  
+    ]
   }
 ]
