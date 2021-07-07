@@ -249,17 +249,6 @@
         "label": "t:settings_schema.social-media.settings.social_vimeo_link.label",
         "info": "t:settings_schema.social-media.settings.social_vimeo_link.info"
       }
-    ]
-  },
-  {
-    "name": "t:settings_schema.favicon.name",
-    "settings": [
-      {
-        "type": "image_picker",
-        "id": "favicon",
-        "label": "t:settings_schema.favicon.settings.favicon.label",
-        "info": "t:settings_schema.favicon.settings.favicon.info"
-      }
-    ]
+    ]  
   }
 ]
