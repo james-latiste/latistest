@@ -1,1 +1,18 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"form":{"type":"contact-form","settings":{}}},"order":["main","form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form"
+  ]
+}
