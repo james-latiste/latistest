@@ -3,10 +3,22 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "adapt",
+        "color_scheme": "background-1",
+        "image_padding": false
+      }
+    },
+    "16311171571b3b23d0": {
+      "type": "page",
+      "settings": {
+        "page": "return-policy"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16311171571b3b23d0"
   ]
 }
