@@ -1,9 +1,9 @@
 window['nf-no-request-mode'] = true; window['nf-forms'] = [];
-window['nf-forms']['13434'] = {
+window['nf-forms']['13435'] = {
     'sessionId': '',
-    'id': 13434,
+    'id': 13435,
     'title': 'Subscribe\u0020to\u0020our\u0020newsletter',
-    'name': 'New\u0020mailchimp\u0020form',
+    'name': 'New\u0020klaviyo\u0020form',
     'isModal': 0,
     'isModalButton': 1,
     'modalButtonIsBold': 1,
@@ -67,7 +67,7 @@ window['nf-forms']['13434'] = {
     'currentStep': 1,
         'fields': [
                     {
-            'id': 111569,
+            'id': 111573,
             'name': 'email',
             'icon': 'nf\u002Dfas\u0020nf\u002Dfa\u002Dat',
             'type': 'text',
@@ -82,10 +82,10 @@ window['nf-forms']['13434'] = {
             'dependsOn': '',
             'dependsOnValues': '\u005B\u005D',
             'label': 'Email',
-            'validationRules': JSON.parse('\u005B\u007B\u0022value\u0022\u003A\u0022Symfony\\\\Component\\\\Validator\\\\Constraints\\\\NotBlank\u0022,\u0022label\u0022\u003A\u0022Required\u0022,\u0022name\u0022\u003A\u0022required\u0022,\u0022errorMessage\u0022\u003A\u0022This\u0020value\u0020shouldn\u0027t\u0020be\u0020blank\u0022,\u0022id\u0022\u003A104151,\u0022mimeTypes\u0022\u003Anull,\u0022fileMaxSize\u0022\u003Anull,\u0022pattern\u0022\u003Anull,\u0022isDeletable\u0022\u003Atrue\u007D,\u007B\u0022value\u0022\u003A\u0022Symfony\\\\Component\\\\Validator\\\\Constraints\\\\Email\u0022,\u0022label\u0022\u003A\u0022Email\u0020address\u0022,\u0022name\u0022\u003A\u0022email\u0022,\u0022errorMessage\u0022\u003A\u0022This\u0020value\u0020is\u0020not\u0020a\u0020valid\u0020email\u0020address.\u0022,\u0022id\u0022\u003A104152,\u0022mimeTypes\u0022\u003Anull,\u0022fileMaxSize\u0022\u003Anull,\u0022pattern\u0022\u003Anull,\u0022isDeletable\u0022\u003Atrue\u007D\u005D')
+            'validationRules': JSON.parse('\u005B\u007B\u0022value\u0022\u003A\u0022Symfony\\\\Component\\\\Validator\\\\Constraints\\\\NotBlank\u0022,\u0022label\u0022\u003A\u0022Required\u0022,\u0022name\u0022\u003A\u0022required\u0022,\u0022errorMessage\u0022\u003A\u0022This\u0020value\u0020shouldn\u0027t\u0020be\u0020blank\u0022,\u0022id\u0022\u003A104154,\u0022mimeTypes\u0022\u003Anull,\u0022fileMaxSize\u0022\u003Anull,\u0022pattern\u0022\u003Anull,\u0022isDeletable\u0022\u003Atrue\u007D,\u007B\u0022value\u0022\u003A\u0022Symfony\\\\Component\\\\Validator\\\\Constraints\\\\Email\u0022,\u0022label\u0022\u003A\u0022Email\u0020address\u0022,\u0022name\u0022\u003A\u0022email\u0022,\u0022errorMessage\u0022\u003A\u0022This\u0020value\u0020is\u0020not\u0020a\u0020valid\u0020email\u0020address.\u0022,\u0022id\u0022\u003A104155,\u0022mimeTypes\u0022\u003Anull,\u0022fileMaxSize\u0022\u003Anull,\u0022pattern\u0022\u003Anull,\u0022isDeletable\u0022\u003Atrue\u007D\u005D')
                                                         }
         ,        {
-            'id': 111571,
+            'id': 111575,
             'name': 'submit',
             'icon': '',
             'type': 'submit',
