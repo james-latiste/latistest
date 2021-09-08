@@ -32,7 +32,7 @@ window['nf-forms']['13438'] = {
     'italicLabels': 0,
     'frontendValidation': 1,
     'labelAlign': 'left',
-    'successMessage': 'The\u0020form\u0020was\u0020submitted.\u0020Thank\u0020you\u0021\u0020We\u0027ll\u0020get\u0020back\u0020to\u0020you\u0020soon\u0021',
+    'successMessage': '\u003Cp\u003EThe\u0020form\u0020was\u0020submitted.\u0020Thank\u0020you\u0021\u0020We\u0027ll\u0020get\u0020back\u0020to\u0020you\u0020soon\u0021\u003C\/p\u003E\n\u003Cp\u003E\u003C\/p\u003E\n',
     'successMessageBgColor': 'rgba\u0028212,237,218,1\u0029',
     'successMessageVisibility': '10',
     'failureMessage': 'Form\u0020validation\u0020failed.\u0020Please\u0020correct\u0020the\u0020input\u0020data\u0020and\u0020submit\u0020again.',
@@ -67,24 +67,6 @@ window['nf-forms']['13438'] = {
     'currentStep': 1,
         'fields': [
                     {
-            'id': 111598,
-            'name': 'first_name',
-            'icon': 'nf\u002Dfas\u0020nf\u002Dfa\u002Duser',
-            'type': 'text',
-            'step': 1,
-            'choices': '\u005B\u005D',
-            'placeholder': 'Your\u0020name',
-            'width': 'col\u002Dmd\u002D12',
-            'isMultipleChoice': 0,
-            'isConditional': 0,
-            'isRequired': 1,
-            'canRender': 1,
-            'dependsOn': '',
-            'dependsOnValues': '\u005B\u005D',
-            'label': 'Your\u0020name',
-            'validationRules': JSON.parse('\u005B\u007B\u0022value\u0022\u003A\u0022Symfony\\\\Component\\\\Validator\\\\Constraints\\\\NotBlank\u0022,\u0022label\u0022\u003A\u0022Required\u0022,\u0022name\u0022\u003A\u0022required\u0022,\u0022errorMessage\u0022\u003A\u0022This\u0020value\u0020shouldn\u0027t\u0020be\u0020blank\u0022,\u0022id\u0022\u003A104169,\u0022mimeTypes\u0022\u003Anull,\u0022fileMaxSize\u0022\u003Anull,\u0022pattern\u0022\u003Anull,\u0022isDeletable\u0022\u003Atrue\u007D\u005D')
-                                                        }
-        ,        {
             'id': 111599,
             'name': 'email',
             'icon': 'nf\u002Dfas\u0020nf\u002Dfa\u002Dat',
