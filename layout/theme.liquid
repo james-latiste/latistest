@@ -109,7 +109,8 @@
     {%- endunless -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  <script src="{{ 'nerdy_form_widget.js' | asset_url }}" defer="defer"></script></head>
+  {% include 'nerdy-form-builder' %}
+</head>
 
   <body>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
